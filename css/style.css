@@ -1,1 +1,12 @@
 body {background-color: rgb(43, 55, 226);}
+
+
+
+img{
+    width: 200px; /*ancho de la imagen*/
+    height: 200px; /*ancho de la imagen*/
+}
+
+tr:hover{
+ background-color: burlywood;    
+}
