@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(151, 13, 215);
+}
+
+
+kbd {
+  font-family: "Victor Mono", monospace;
+  padding: 4px 10px;
+  background: #eee;
+  border: 5px solid #bbb;
+  border-top-width: 3px;
+  border-bottom: 5px solid #777;
+}
+
+.tipoinputs2{
+    background-color:rgb(208, 208, 154);
+}
