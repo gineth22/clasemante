@@ -1,10 +1,10 @@
 *{
     margin:0; /* distancia externa */
-    padding: 0; /*distancia interna*/
+    padding:0; /*distancia interna*/
 }
 
 body{
-    font-family: 'roboto', sans-serif;
+    font-family: 'roboto',sans-serif;
 }
 
 .contenedor{
@@ -57,6 +57,7 @@ nav{
     align-items: center;
 }
 
-.contenido_header > img {height: 100px;
+.contenido_header > img {
     width: 100px;
+    height: 100px;
 }
