@@ -116,6 +116,64 @@ nav {
     text-transform: uppercase;
     box-shadow: 0 8px 32px rgba(97, 31, 31, 0.46);
 }
+
+/* ··························· EDUCATION ·············································· */
+.section-education{
+    background-color: #d03d3d;
+}
+.section-education.title{
+    display:block;
+    margin:15px 0;
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.content-education{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-bottom: 30px;
+}
+
+.education{
+    width: 30%;
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 30px;
+
+
+}
+
+.education i {
+    border: 2px solid #d03d3d;
+    border-radius: 50%;
+    background-color: #d03d3d;
+    color: #fff;
+    width: 40px;
+    height: 40px;
+    font-size: 22px;
+    text-align: center;
+    line-height: 36px;
+}
+
+.education:hover{
+    background-color: #d03d3d;
+    box-shadow: 0 0 8px #5d6678;
+    transition: all ease-in-out .4s;
+    color: #fff;
+
+}
+
+.content-education .education a:hover{
+    color: #5d6678;
+    font-size: 12px;
+    text-decoration: none;
+
+}
+
+
+
 /* ########################### pie de pagina ########################################### */
 footer{
     background-color: #d03d3d (70,70,70);
